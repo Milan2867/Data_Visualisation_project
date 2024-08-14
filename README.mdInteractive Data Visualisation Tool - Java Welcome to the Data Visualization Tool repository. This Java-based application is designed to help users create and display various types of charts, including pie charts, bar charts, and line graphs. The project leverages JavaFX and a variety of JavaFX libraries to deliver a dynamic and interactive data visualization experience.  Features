@@ -1,0 +1,14 @@
+# Data_Visualisation_projectl - Java
+Welcome to the Data Visualization Tool repository. This Java-based application is designed to help users create and display various types of charts, including pie charts, bar charts, and line graphs. The project leverages JavaFX and a variety of JavaFX libraries to deliver a dynamic and interactive data visualization experience.
+
+# Installation
+1 Clone the Repository
+
+git clone https://github.com/AmishiDesai04/datavisualizationtool.git
+Open the Project in Your Preferred Java IDE
+
+2 Import the project as a Maven or Gradle project if necessary.
+
+Ensure that JavaFX is properly configured in your IDE.
+
+3 Run the Application
